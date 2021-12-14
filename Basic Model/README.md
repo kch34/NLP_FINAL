@@ -7,3 +7,7 @@ The `model_train.py` is used for training followed by the `model_test.py` file f
 
 ## Data
 `*.pickle` files contain the data of each category
+
+## Python Library
+To install necessary python libraries, run:  
+`pip3 install -r requirements.txt`
